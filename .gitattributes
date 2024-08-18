@@ -1,5 +1,5 @@
 # ShaderLab dosyalarını hariç tut (dil istatistiklerine dahil edilmesin)
-*.ShaderLab linguist-vendored=true
+*.ShaderLab linguist-vendored=false
 
 # C# dosyalarını dil istatistiklerine dahil et
-*.cs linguist-vendored=false
+*.cs linguist-vendored=true
