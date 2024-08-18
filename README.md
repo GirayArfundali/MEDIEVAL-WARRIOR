@@ -17,3 +17,7 @@ Game Download link [ https://drive.google.com/drive/folders/1PWCI3tusSTxEPU3NAme
 ![kapak](https://github.com/user-attachments/assets/956e173f-d102-4566-a57f-f5dfde6f3447)
 
 
+
+
+https://github.com/Girayarf/MEDIEVAL-WARRIOR/issues/2#issue-2471786569
+
