@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# C# kaynak dosyaları için LF ile normalizasyon yap
+*.cs text eol=lf
+
+# C# proje dosyaları için LF ile normalizasyon yap
+*.csproj text eol=lf
+*.sln text eol=lf
