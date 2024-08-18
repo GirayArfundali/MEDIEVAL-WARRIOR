@@ -17,7 +17,7 @@ Game Download link [ https://drive.google.com/drive/folders/1PWCI3tusSTxEPU3NAme
 ![kapak](https://github.com/user-attachments/assets/956e173f-d102-4566-a57f-f5dfde6f3447)
 
 
-https://github.com/user-attachments/assets/eeee0fca-4af9-4084-bad5-8f54a587c216
+
 
 
 
