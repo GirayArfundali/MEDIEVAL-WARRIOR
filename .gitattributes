@@ -1,2 +1,2 @@
 *.cs linguist-vendored
-*.ShaderLab linguist-detectable=false
+*.cs linguist-language=C#
