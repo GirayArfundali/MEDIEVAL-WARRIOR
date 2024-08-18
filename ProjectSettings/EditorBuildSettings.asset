@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Ana Men\xFC.unity"
+    guid: 7967f5c3190a61f46b2e5f6255bd19a2
+  - enabled: 1
+    path: "Assets/1.b\xF6l\xFCm.unity"
+    guid: a88d482667f473b48b73418bd9c9bd69
+  - enabled: 1
+    path: "Assets/2.b\xF6l\xFCm.unity"
+    guid: 92e5eed6c9db47d4399389728425596c
+  - enabled: 1
+    path: "Assets/3.b\xF6l\xFCm.unity"
+    guid: b0231e3146686ee4ba918c610e439a2f
+  - enabled: 1
+    path: Assets/creative.unity
+    guid: 55e6d832e31cab94fb531788b044d5fb
+  - enabled: 1
+    path: "Assets/BitisEkran\u0131.unity"
+    guid: b7947547b571188489a4d2721937fdf8
+  - enabled: 1
+    path: "Assets/Oynan\u0131\u015F.unity"
+    guid: ea29d8083a0a126418370d5fce918e8e
+  - enabled: 0
+    path: Assets/RestartScreen.unity
+    guid: faa7f36174586b948b06c137acefea89
+  m_configObjects: {}

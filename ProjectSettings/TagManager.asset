@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - zemin
+  - tetikleyici
+  - tetikleyici3
+  - tetikleyici2
+  - "D\xFC\u015Fman"
+  - "d\xFC\u015Fman"
+  - engel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - zemin
+  - Water
+  - UI
+  - engel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SettingsPanel
+    uniqueID: 879031639
+    locked: 0
+  - name: arkaplan
+    uniqueID: 1125386531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: zemin
+    uniqueID: 3342769777
+    locked: 0
+  - name: karakter
+    uniqueID: 1748964441
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 280681527
+    locked: 0
+  - name: "d\xFC\u015Fman"
+    uniqueID: 231706893
+    locked: 0
