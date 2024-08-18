@@ -13,3 +13,7 @@ Communication For your questions or feedback, you can contact [girayarfundal63@g
 
 Game Download link [ https://drive.google.com/drive/folders/1PWCI3tusSTxEPU3NAmemUs1oyJdScc-s?usp=sharing](https://drive.google.com/file/d/1E6rfsKB5fCYWVNvuodaSCrHh-fOPnpAr/view?usp=drive_link)
 
+
+![kapak](https://github.com/user-attachments/assets/956e173f-d102-4566-a57f-f5dfde6f3447)
+
+
