@@ -15,10 +15,6 @@ The ZIP file will be automatically downloaded to your computer. ZIP File
 You can access the project by extracting the downloaded ZIP file.
 
 
-Contributing If you would like to contribute, you can follow the steps below:
-
-
-
 Communication For your questions or feedback, you can contact [girayarfundal63@gmail.com].
 
 Game Download link [ https://drive.google.com/drive/folders/1PWCI3tusSTxEPU3NAmemUs1oyJdScc-s?usp=sharing](https://drive.google.com/file/d/1E6rfsKB5fCYWVNvuodaSCrHh-fOPnpAr/view?usp=drive_link)
