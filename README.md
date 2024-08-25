@@ -4,6 +4,7 @@ Medieval Warrior is a 2D platform game developed using Unity. In the game, playe
 
 Features Three Levels of Challenge: The game has three different levels that challenge players' gradually improving skills. Enemies and Obstacles: Each level has various enemies and obstacles to hinder players and make the game difficult. Increasing Difficulty: As levels progress, enemies become stronger and new obstacles are added.
 
+
 Setup
 
 Click on the "Code" button in the upper right corner. Select "Download ZIP" Option:
