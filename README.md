@@ -4,7 +4,16 @@ Medieval Warrior is a 2D platform game developed using Unity. In the game, playe
 
 Features Three Levels of Challenge: The game has three different levels that challenge players' gradually improving skills. Enemies and Obstacles: Each level has various enemies and obstacles to hinder players and make the game difficult. Increasing Difficulty: As levels progress, enemies become stronger and new obstacles are added.
 
-Setup Download and install the Unity program. Clone this repository or download it as a ZIP file. Open Unity Editor and open the project. Start the project and play the game!
+Setup
+
+Click on the "Code" button in the upper right corner. Select "Download ZIP" Option:
+
+In the menu that opens, click "Download ZIP". Download ZIP File
+
+The ZIP file will be automatically downloaded to your computer. ZIP File
+
+You can access the project by extracting the downloaded ZIP file.
+
 
 Contributing If you would like to contribute, you can follow the steps below:
 
