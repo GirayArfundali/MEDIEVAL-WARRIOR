@@ -17,7 +17,7 @@ You can access the project by extracting the downloaded ZIP file.
 
 Contributing If you would like to contribute, you can follow the steps below:
 
-Fork the repository. Create a new branch. Make your changes and submit a pull request. Licence This project is licensed under the MIT License.
+
 
 Communication For your questions or feedback, you can contact [girayarfundal63@gmail.com].
 
